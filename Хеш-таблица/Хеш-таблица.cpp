@@ -398,39 +398,7 @@ int main()
 	el.times.minute = 20;
 	Table.Add(el);
 	Table.Print();
-	/**record.name.names = "Ваяй Михаил Сергеевич";
-	record.time.hour = 18;
-	record.time.mint = 20;
-	record.time.hour = 10;
-	record.time.mint = 30;
-	Table.Add(record);
-	Table.Print();
-	record.name.names = "Ваяй Михил Сергеевич";
-	record.time.hour = 10;
-	record.time.mint = 30;
-	Table.Add(record);
-	Table.Print();
-	record.name.names = "Ваяй Михаил Сергеевич";
-	record.time.hour = 8;
-	record.time.mint = 30;
-	Table.Delete(record);
-	Table.Print();
-	record.name.names = "Ваяй Михаил Сергеевич";
-	record.time.hour = 8;
-	record.time.mint = 30;
-	Table.Add(record);
-	Table.Print();
-	record.name.names = "Ваяй Михаил Сергеевич";
-	record.time.hour = 18;
-	record.time.mint = 20;
-	Table.Search(record);
-	record.name.names = "Ваяй Михаил Сергеевич";
-	record.time.hour = 18;
-	record.time.mint = 20;
-	Table.Delete(record);
-	Table.Delete(record);
-	Table.Delete(record);
-	Table.Print();*/
+	
 
 	return 0;
 }
