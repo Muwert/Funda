@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\kseni\Desktop\Университет\фунда\Хеш-таблица версия 3\ConsoleApplication2.cpp(57,15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kseni\Desktop\Университет\фунда\Хеш-таблица версия 3\ConsoleApplication2.cpp(60,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\kseni\Desktop\Университет\фунда\Хеш-таблица версия 3\x64\Debug\ConsoleApplication2.exe
