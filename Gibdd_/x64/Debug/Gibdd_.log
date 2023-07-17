@@ -1,0 +1,14 @@
+﻿  Candidates.cpp
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(59,15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(62,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  MyForm.cpp
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(59,15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(62,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Rezults.cpp
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(59,15): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\Hash_Table.h(62,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  Candidates.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : error LNK2005: "class std::vector<struct Rezult *,class std::allocator<struct Rezult *> > Gibdd::record_rezults" (?record_rezults@Gibdd@@3V?$vector@PEAURezult@@V?$allocator@PEAURezult@@@std@@@std@@A) уже определен в Candidates.obj
+Rezults.obj : error LNK2005: "class std::vector<struct Rezult *,class std::allocator<struct Rezult *> > Gibdd::record_rezults" (?record_rezults@Gibdd@@3V?$vector@PEAURezult@@V?$allocator@PEAURezult@@@std@@@std@@A) уже определен в Candidates.obj
+C:\Users\kseni\Desktop\Университет\фунда\Gibdd_\x64\Debug\Gibdd_.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
